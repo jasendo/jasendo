@@ -8,7 +8,8 @@
 
 *Experiments:*
 
+- edits:
 ```diff
-- const data = [];
-+ const data = {};
+- int[] list = new int[10];
++ int[] list = new int[9];
 ```
